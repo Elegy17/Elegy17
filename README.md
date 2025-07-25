@@ -135,6 +135,18 @@
 
 ---
 
+### ⚡️ Fun Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Elegy17&show_icons=true&theme=tokyonight&hide_rank=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Elegy17&theme=tokyonight" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Elegy17&theme=tokyo-night" />
+</p>
+
+---
+
 ## 🖖 个性签名
 
 <div align="center">
