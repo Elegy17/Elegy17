@@ -37,26 +37,9 @@
 > “代码改变世界，热爱让我们不断前行。” 🚀
 
 
-<!--
-如果你希望展示技能、项目或社交链接，可随时告诉我，帮你更新完善～
--->
+
 
 <!--
-**Elegy17/Elegy17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 <!-- 动态欢迎横幅 -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:FF61A6&height=200&section=header&text=Hi%20I'm%20Elegy17!&fontSize=50&fontAlignY=40&desc=Welcome%20to%20my%20Universe!&descSize=25&descAlignY=60" />
@@ -133,3 +116,5 @@ def motto():
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF61A6,100:36BCF7&height=100&section=footer"/>
 </p>
+
+-->
