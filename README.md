@@ -106,7 +106,7 @@
 </div>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
 </div>
 
 <!-- 结尾彩色分割线 -->
