@@ -17,7 +17,7 @@
 
 ✨ **Connect with me**
 
-[![Email](https://img.shields.io/badge/Email-elegy17%40example.com-blue?style=flat-square&logo=gmail)](mailto:elegy17@example.com)
+[![Email](https://img.shields.io/badge/Email-elegy17%40example.com-blue?style=flat-square&logo=gmail)](mailto:6xiaofen@gmail.com)
 [![Blog](https://img.shields.io/badge/Blog-My%20Blog-orange?style=flat-square&logo=wordpress)](https://your-blog-link.com)
 
 ---
