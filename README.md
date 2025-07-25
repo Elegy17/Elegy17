@@ -61,6 +61,13 @@
 ---
 
 
+<!-- 动态欢迎横幅 -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:FF61A6&height=200&section=header&text=Hi%20I'm%20Elegy17!&fontSize=50&fontAlignY=40&desc=Welcome%20to%20my%20Universe!&descSize=25&descAlignY=60" />
+</p>
+
+<div align="center">
+
 
 <!-- 动态欢迎动画 -->
 <div align="center">
