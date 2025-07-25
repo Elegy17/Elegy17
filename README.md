@@ -69,7 +69,6 @@
 <div align="center">
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="260"/>
   <br>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Elegy17&theme=react-dark" width="90%"/>
 </div>
 
 ---
