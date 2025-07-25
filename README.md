@@ -148,7 +148,7 @@
 
 <!-- 动态小人（代码地图） -->
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/Platane/snk@master/snk.svg?user=Elegy17" width="780" />
+  <img src="https://raw.githubusercontent.com/Elegy17/Elegy17/output/github-contribution-grid-snake.svg" />
 </div>
 
 ---
