@@ -1,7 +1,6 @@
 # Hi, I'm Elegy17 👋
 
 自由职业 | Freelancer  
-Building cool things with code!
 
 ---
 
