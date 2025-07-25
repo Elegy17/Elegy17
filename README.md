@@ -146,20 +146,6 @@
 
 ---
 
-<!-- 动态小人（代码地图） -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Elegy17/Elegy17/output/github-contribution-grid-snake.svg" />
-</div>
-
----
-
-<!-- 3D 动画猫彩蛋 -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Elegy17/Elegy17/output/github-contribution-grid-snake.svg" />
-</div>
-
----
-
 <!-- 结尾彩色分割线 -->
 <div align="center">
   <hr style="border: 2px dashed #FF00FF;">
