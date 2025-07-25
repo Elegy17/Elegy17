@@ -78,4 +78,3 @@ def motto():
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF61A6,100:36BCF7&height=100&section=footer"/>
 </p>
-```
