@@ -1,0 +1,24 @@
+name: Generate snake animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # 每天自动运行
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: Elegy17
+          outputs: |
+            ./github-contribution-grid-snake.svg
+      - name: Push
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: github-actions
+          author_email: github-actions@github.com
+          message: "generate snake animation"
+          add: "github-contribution-grid-snake.svg"
