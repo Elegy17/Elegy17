@@ -90,7 +90,6 @@
 ## ⚡️ 统计数据
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Elegy17&show_icons=true&theme=tokyonight&hide_rank=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Elegy17&theme=tokyonight" />
 </p>
 <p align="center">
