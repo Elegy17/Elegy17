@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/Elegy17-宇宙最强-FF00FF?style=for-the-badge&logo=github"/>
   <a href="mailto:6xiaofen@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail"></a>
   <a href="https://your-website.com"><img src="https://img.shields.io/badge/Website-主页-00FFFF?style=for-the-badge&logo=firefox-browser"></a>
-  <a href="https://twitter.com/yourtwitter"><img src="https://img.shields.io/badge/Twitter-@Elegy17-1DA1F2?style=for-the-badge&logo=twitter"></a>
+  <a href="https://twitter.com/yourtwitter"><img src="https://img.shields.io/badge/Twitter-@uiqi_17-@星然-1DA1F2?style=for-the-badge&logo=twitter"></a>
   <a href="这里填写博客地址">
 <img src="https://img.shields.io/badge/Blog-0078D4?style=for-the-badge&logo=wordpress&logoColor=white"/></a>
   <a href="https://t.me/你的telegram"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
