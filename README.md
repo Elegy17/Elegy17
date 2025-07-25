@@ -11,7 +11,7 @@
   <!-- 社交按钮 -->
   <p>
     <a href="mailto:6xiaofen@gmail.com"><img src="https://img.shields.io/badge/Email-FF6F91?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-    <a href="https://your-blog-link.com"><img src="https://img.shields.io/badge/Blog-0078D4?style=for-the-badge&logo=wordpress&logoColor=white"/></a>
+    <a href="这里填写博客地址"><img src="https://img.shields.io/badge/Blog-0078D4?style=for-the-badge&logo=wordpress&logoColor=white"/></a>
     <a href="https://twitter.com/uiqi_17"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
     <a href="https://t.me/你的telegram"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
   </p>
