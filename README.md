@@ -62,71 +62,106 @@
 
 
 
-
 <!-- 动态欢迎动画 -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=欢迎来到Elegy17的GitHub主页!;代码改变世界;一起创造未来!&font=Fira%20Code&center=true&width=440&height=50&duration=3000&pause=1000&color=36BCF7&vCenter=true&size=30" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=👋%20Hi%2C%20我是Elegy17!;🔥%20Coding%20is%20my%20superpower!;🚀%20欢迎来到我的宇宙!&font=Fira%20Code&center=true&width=600&height=60&duration=2500&pause=1000&color=FF00FF&vCenter=true&size=40" />
 </div>
 
-<!-- 头像和简介 -->
+<!-- 个人头像+炫酷边框 -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/你的GitHubID?v=4" width="120" style="border-radius:50%"/>
-</p>
-<h2 align="center">Hi 👋，我是 Elegy17！</h2>
-<p align="center">
-  🚀 热爱开源 | 🎨 喜欢创造 | 💻 代码即诗  
+  <img src="https://avatars.githubusercontent.com/u/你的GitHubID?v=4" width="160" style="border-radius:50%;box-shadow:0 0 25px #FF00FF,0 0 30px #00FFFF;">
 </p>
 
+<!-- 彩色签名和社交链接 -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Elegy17-宇宙最强-FF00FF?style=for-the-badge&logo=github"/>
+  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail"></a>
+  <a href="https://your-website.com"><img src="https://img.shields.io/badge/Website-主页-00FFFF?style=for-the-badge&logo=firefox-browser"></a>
+  <a href="https://twitter.com/yourtwitter"><img src="https://img.shields.io/badge/Twitter-@Elegy17-1DA1F2?style=for-the-badge&logo=twitter"></a>
+</p>
+
 ---
 
-### 🚩 关于我
-
-- 🌱 正在学习：AI、前端、后端、DevOps
-- 🤝 寻找志同道合的小伙伴，一起搞事情！
-- 🏆 参与和维护多个开源项目
-- 📫 联系我：[你的邮箱] | [你的个人网站]
+## 🎉 关于我
+- 🦸‍♂️ **全栈开发者 | AI探索者 | 设计控 | 创意无限**
+- 🧑‍🚀 梦想去火星写代码
+- 🦄 爱收集奇奇怪怪的技术和灵感
+- 🏆 你能想到的，我都在尝试！
 
 ---
 
-### 🛠️ 技能展示
-
+## 🪐 技能宇宙
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=python,typescript,react,nodejs,docker,kubernetes,figma,github,linux,bash,go,aws,redis,graphql" height="48"/>
 </div>
 
 ---
 
-### 🔥 我的 GitHub 数据
+## 🚀 项目银河系
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Elegy17&show_icons=true&theme=radical&hide=prs,issues"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Elegy17&theme=radical"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Elegy17&theme=dracula"/>
+  <a href="https://github.com/Elegy17/Awesome-Project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Elegy17&repo=Awesome-Project&theme=radical" height="130"/>
+  </a>
+  <a href="https://github.com/Elegy17/AI-Bot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Elegy17&repo=AI-Bot&theme=radical" height="130"/>
+  </a>
+</div>
+<br>
+
+---
+
+## 🎨 彩蛋互动
+
+<div align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="260"/>
+  <br>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Elegy17&theme=react-dark" width="90%"/>
 </div>
 
 ---
 
-### 🌟 推荐项目
-
-- [**Awesome-Project**](https://github.com/Elegy17/Awesome-Project)  
-  一个超级酷的项目，欢迎 Star & Fork！
-
-- [**AI-Bot**](https://github.com/Elegy17/AI-Bot)  
-  智能机器人，助力你的开发效率！
-
----
-
-### 💡 座右铭
-> 代码即诗，梦想无界。
-
----
-
-<!-- 动态小人 -->
+## 🌈 贡献卡
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/Platane/snk@master/snk.svg?user=Elegy17" width="600" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Elegy17&theme=matrix&column=7" />
+</div>
+
+---
+
+## 💡 访客统计
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Elegy17&style=for-the-badge&color=00ffff">
+</p>
+
+---
+
+## 🖖 个性签名
+
+<div align="center">
+  <img src="https://img.shields.io/badge/代码即诗-梦想无界-FF00FF?style=for-the-badge">
+</div>
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
+</div>
+
+---
+
+<!-- 动态小人（代码地图） -->
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/Platane/snk@master/snk.svg?user=Elegy17" width="780" />
+</div>
+
+---
+
+<!-- 3D 动画猫彩蛋 -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Elegy17/Elegy17/output/github-contribution-grid-snake.svg" />
+</div>
+
+---
+
+<!-- 结尾彩色分割线 -->
+<div align="center">
+  <hr style="border: 2px dashed #FF00FF;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Happy%20Coding!&fontSize=36" />
 </div>
