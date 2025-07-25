@@ -55,7 +55,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Elegy17&theme=tokyonight" />
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Elegy17&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Elegy1&theme=tokyo-night" />
 </p>
 
 ---
