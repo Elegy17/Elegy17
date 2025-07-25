@@ -59,22 +59,3 @@
 </p>
 
 ---
-
-### 🎵 现在听什么？
-
-[![Spotify](https://spotify-readme-chi-coral.vercel.app/api?theme=natemoo-re&scan=true)](https://open.spotify.com/user/316hn7s3gsaklg2iahpymmslvucy)
-
----
-
-### 🦄 彩蛋
-
-```python
-def motto():
-    return "Strive for progress, not perfection. 🚀"
-```
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF61A6,100:36BCF7&height=100&section=footer"/>
-</p>
