@@ -6,7 +6,7 @@
 <div align="center">
   
   <!-- 头像 -->
-  <img src="https://avatars.githubusercontent.com/u/MDQ6VXNlcjI0NzUxMTEx" width="120" style="border-radius:50%;" />
+  <img src="https://avatars.githubusercontent.com/u/24751111?v=4" width="120" style="border-radius:50%;" />
 
   <!-- 社交按钮 -->
   <p>
