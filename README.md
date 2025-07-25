@@ -69,11 +69,6 @@
 <div align="center">
 
 
-<!-- 动态欢迎动画 -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=👋%20Hi%2C%20我是Elegy17!;🔥%20Coding%20is%20my%20superpower!;🚀%20欢迎来到我的宇宙!&font=Fira%20Code&center=true&width=600&height=60&duration=2500&pause=1000&color=FF00FF&vCenter=true&size=40" />
-</div>
-
 <!-- 个人头像+炫酷边框 -->
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/24751111?v=4" width="160" style="border-radius:50%;box-shadow:0 0 25px #FF00FF,0 0 30px #00FFFF;">
