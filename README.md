@@ -1,16 +1,3 @@
-# Hi, I'm Elegy17 👋
-
-自由职业 | Freelancer  
-
----
-
-🌱 持续学习与探索新技术  
-💻 热爱编程、享受创造  
-⛅ 喜欢自由与挑战
-
-欢迎访问我的 GitHub，发现更多有趣的项目和想法！
-
-
 <h1 align="center">Hi, I'm Elegy17 👋</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Code+is+poetry+%F0%9F%92%BB;Always+Learning+%F0%9F%92%A1" alt="Typing SVG" />
