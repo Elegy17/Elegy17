@@ -1,0 +1,37 @@
+<h1 align="center">Hi, I'm Elegy17 👋</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Code+is+poetry+%F0%9F%92%BB;Always+Learning+%F0%9F%92%A1" alt="Typing SVG" />
+</p>
+
+---
+
+🌟 **About Me**
+
+- 🚀 Passionate about open-source, coding, and learning new things
+- 💻 Tech Stack: `Python`, `JavaScript`, `TypeScript`, `React`, `Node.js`, `Go`
+- 🛠️ Tools: VS Code, Linux, Docker, Git & GitHub Actions
+- 🌱 Currently learning: `AI`, `Cloud`, `Rust`
+- 🎨 Hobbies: Drawing, Music, and Gaming
+
+---
+
+✨ **Connect with me**
+
+[![Email](https://img.shields.io/badge/Email-elegy17%40example.com-blue?style=flat-square&logo=gmail)](mailto:6xiaofen@gmail.com)
+[![Blog](https://img.shields.io/badge/Blog-My%20Blog-orange?style=flat-square&logo=wordpress)](https://your-blog-link.com)
+
+---
+
+📊 **GitHub Stats**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Elegy17&show_icons=true&theme=radical" alt="Elegy17's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Elegy17&theme=radical" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Elegy17&theme=react-dark" alt="GitHub Activity Graph" />
+</p>
+
+---
+
+> “代码改变世界，热爱让我们不断前行。” 🚀
