@@ -1,4 +1,4 @@
-<!-- <!-- 动态欢迎横幅 -->
+<!-- 动态欢迎横幅 -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:FF61A6&height=200&section=header&text=Hi%20I'm%20Elegy17!&fontSize=50&fontAlignY=40&desc=Welcome%20to%20my%20Universe!&descSize=25&descAlignY=60" />
 </p>
@@ -69,7 +69,7 @@
 
 <!-- 个人头像+炫酷边框 -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/你的GitHubID?v=4" width="160" style="border-radius:50%;box-shadow:0 0 25px #FF00FF,0 0 30px #00FFFF;">
+  <img src="https://avatars.githubusercontent.com/u/24751111?v=4" width="160" style="border-radius:50%;box-shadow:0 0 25px #FF00FF,0 0 30px #00FFFF;">
 </p>
 
 <!-- 彩色签名和社交链接 -->
