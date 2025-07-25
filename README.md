@@ -53,8 +53,8 @@
 ## 🚀 项目银河系
 
 <div align="center">
-  <a href="https://github.com/Elegy17/Awesome-Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Elegy17&repo=Awesome-Project&theme=radical" height="130"/>
+  <a href="https://github.com/Elegy17/NetFlowNest">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Elegy17&repo=NetFlowNest&theme=radical" height="130"/>
   </a>
   <a href="https://github.com/Elegy17/AI-Bot">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Elegy17&repo=AI-Bot&theme=radical" height="130"/>
