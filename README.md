@@ -68,7 +68,6 @@
 
 <div align="center">
 
-
 <!-- 个人头像+炫酷边框 -->
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/24751111?v=4" width="160" style="border-radius:50%;box-shadow:0 0 25px #FF00FF,0 0 30px #00FFFF;">
@@ -77,7 +76,7 @@
 <!-- 彩色签名和社交链接 -->
 <p align="center">
   <img src="https://img.shields.io/badge/Elegy17-宇宙最强-FF00FF?style=for-the-badge&logo=github"/>
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail"></a>
+  <a href="mailto:6xiaofen@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail"></a>
   <a href="https://your-website.com"><img src="https://img.shields.io/badge/Website-主页-00FFFF?style=for-the-badge&logo=firefox-browser"></a>
   <a href="https://twitter.com/yourtwitter"><img src="https://img.shields.io/badge/Twitter-@Elegy17-1DA1F2?style=for-the-badge&logo=twitter"></a>
 </p>
