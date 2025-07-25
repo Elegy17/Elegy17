@@ -152,9 +152,6 @@
 <div align="center">
   <img src="https://img.shields.io/badge/代码即诗-梦想无界-FF00FF?style=for-the-badge">
 </div>
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
-</div>
 
 ---
 
