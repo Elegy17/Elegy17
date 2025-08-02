@@ -109,7 +109,7 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
 </div>
 
-![冬雪高铁站]([https://img.00000106.xyz/file/AgACAgQAAxkDAAMRaIs0CekL8balbJmahBTpzsS4Uy0AArzIMRvB2FlQjQ1RfJV_vNUBAAMCAAN5AAM2BA.jpeg)
+![]([https://img.00000106.xyz/file/AgACAgQAAxkDAAMRaIs0CekL8balbJmahBTpzsS4Uy0AArzIMRvB2FlQjQ1RfJV_vNUBAAMCAAN5AAM2BA.jpeg)
 
 <!-- 结尾彩色分割线 -->
 <div align="center">
