@@ -82,9 +82,9 @@
   <img src="https://img.shields.io/badge/代码即诗-梦想无界-FF00FF?style=flat">
 </div>
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" height="100">
-</div>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
+</p>
 
 <!-- 结尾彩色分割线 -->
 <div align="center">
