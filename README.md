@@ -83,7 +83,7 @@
 </div>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" high="15px">
 </div>
 
 <!-- 结尾彩色分割线 -->
