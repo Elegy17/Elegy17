@@ -68,7 +68,7 @@
 
 ## 💡 访客统计
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Elegy17&style=for-the-badge&color=00ffff">
+  <img src="https://komarev.com/ghpvc/?username=Elegy17&style=flat&logo=github&color=00ffff">
 </p>
 
 ---
