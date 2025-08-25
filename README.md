@@ -88,6 +88,6 @@
 
 <!-- 结尾彩色分割线 -->
 <div align="center">
-  <hr style="border: 5px dashed #FF00FF;">
+  <hr style="border: 2px dashed #FF00FF;">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Happy%20Coding!&fontSize=36" />
 </div>
