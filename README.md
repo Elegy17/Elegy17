@@ -50,15 +50,6 @@
 
 ---
 
-## 🎨 彩蛋互动
-
-<div align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="260"/>
-  <br>
-</div>
-
----
-
 ## 🌈 贡献卡
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Elegy17&theme=matrix&column=7" />
@@ -85,7 +76,7 @@
 
 ---
 
-## 🖖 个性签名
+## ✌️ 个性签名
 
 <div align="center">
   <img src="https://img.shields.io/badge/代码即诗-梦想无界-FF00FF?style=flat">
@@ -97,6 +88,6 @@
 
 <!-- 结尾彩色分割线 -->
 <div align="center">
-  <hr style="border: 2px dashed #FF00FF;">
+  <hr style="border: 5px dashed #FF00FF;">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Happy%20Coding!&fontSize=36" />
 </div>
