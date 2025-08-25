@@ -83,7 +83,7 @@
 </div>
 
 <p align="center">
-  <img src="[https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=本是青燈不歸客, 卻因濁酒留風塵。&author=星然♚" />
+  <img src="[https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=本是青燈不歸客, 卻因濁酒留風塵。&author=星然♚") />
 </p>
 
 <!-- 结尾彩色分割线 -->
