@@ -18,17 +18,7 @@
   <a href="https://twitter.com/uiqi_17"><img src="https://img.shields.io/badge/Twitter-@uiqi__17-1DA1F2?style=flate&logo=x"></a>
   <a href="https://blog.00000106.xyz"><img src="https://img.shields.io/badge/Blog-浮日誌-brightgreen?style=flat&logo=hexo&logoColor=white" alt="Blog-浮日誌"></a>
 </p>
-
-<!-- ASCII 艺术分割线 -->
-<pre align="center">
-███████╗██╗     ███████╗ ██████╗  ██████╗ ██╗   ██╗
-██╔════╝██║     ██╔════╝██╔═══██╗██╔════╝ ██║   ██║
-█████╗  ██║     █████╗  ██║   ██║██║  ███╗██║   ██║
-██╔══╝  ██║     ██╔══╝  ██║   ██║██║   ██║██║   ██║
-██║     ███████╗███████╗╚██████╔╝╚██████╔╝╚██████╔╝
-╚═╝     ╚══════╝╚══════╝ ╚═════╝  ╚═════╝  ╚═════╝
-</pre>
-
+    
 ---
 
 ## 🎉 关于我
