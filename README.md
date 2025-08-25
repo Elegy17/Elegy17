@@ -20,7 +20,7 @@
 <img src="https://img.shields.io/badge/Blog-0078D4?style=for-the-badge&logo=hexo&logoColor=white"/></a>
   <a href="https://t.me/你的telegram"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 
-<a href="https://blog.00000106.xyz"><img src="https://img.shields.io/badge/Blog-浮日誌-brightgreen?style=flat&logo=hexo&logoColor=white" alt="Blog-浮日誌"></a>
+<a href="https://blog.00000106.xyz"><img src="https://img.shields.io/badge/Blog-浮日誌-brightgreen?style=for-the-badge&logo=hexo&logoColor=white" alt="Blog-浮日誌"></a>
 
 </p>
 
