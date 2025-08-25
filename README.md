@@ -18,7 +18,7 @@
   <a href="https://twitter.com/yourtwitter"><img src="https://img.shields.io/badge/Twitter-@uiqi_17-1DA1F2?style=for-the-badge&logo=twitter"></a>
   <a href="https://blog.00000106.xyz">
 <img src="https://img.shields.io/badge/Blog-0078D4?style=for-the-badge&logo=hexo&logoColor=white"/></a>
-  <a href="https://t.me/你的telegram"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://t.me/你的telegram"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white"/></a>
 <a href="https://blog.00000106.xyz"><img src="https://img.shields.io/badge/Blog-浮日誌-brightgreen?style=flat&logo=hexo&logoColor=white" alt="Blog-浮日誌"></a>
 
 </p>
