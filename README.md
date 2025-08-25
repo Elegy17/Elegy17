@@ -13,7 +13,7 @@
 <!-- 彩色签名和社交链接 -->
 <p align="center">
   <a href="https://github.com/Elegy17"><img src="https://img.shields.io/badge/Elegy17-宇宙最强-FF00FF?style=flat&logo=github" alt="星然♚"/>
-  <a href="mailto:6xiaofen@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=flate&logo=gmail"></a>
+  <a href="mailto:6xiaofen@gmail.com"><img src="https://img.shields.io/badge/Email-星然♚-blue?style=flate&logo=gmail"></a>
   <a href="https://00000106.xyz"><img src="https://img.shields.io/badge/Home-主页-00FFFF?style=flate&logo=aiqfome" alt="Home"></a>
   <a href="https://twitter.com/uiqi_17"><img src="https://img.shields.io/badge/Twitter-@uiqi_17-1DA1F2?style=flate&logo=x"></a>
   <a href="https://blog.00000106.xyz"><img src="https://img.shields.io/badge/Blog-浮日誌-brightgreen?style=flat&logo=hexo&logoColor=white" alt="Blog-浮日誌"></a>
