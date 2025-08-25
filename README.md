@@ -19,6 +19,9 @@
   <a href="https://blog.00000106.xyz">
 <img src="https://img.shields.io/badge/Blog-0078D4?style=for-the-badge&logo=hexo&logoColor=white"/></a>
   <a href="https://t.me/你的telegram"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+
+<img alt="Static Badge" src="https://img.shields.io/badge/Blog-%E6%B5%AE%E6%97%A5%E8%AA%8C-brightgreen?style=flat&logo=hexo&logoSize=auto&link=https%3A%2F%2Fblog.00000106.xyz">
+
 </p>
 
 ---
